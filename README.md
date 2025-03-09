@@ -15,7 +15,7 @@ Over the course of the next few months I will be uploading projects centered aro
 - After the first 30 days are complete, I will do a restructure and rebuild my initial code.
 - This will show my progress and how much I have improved in my journey to become a Dev.
 
-## 🚀 Code with me and join in.
+## 🚀 Code with me and Join in.
 
 Follow my journey, Provide any tips and tricks you have learned throughout your dev years. Happy to take criticism and grow. Fork, Contribute and follow my journey
 
